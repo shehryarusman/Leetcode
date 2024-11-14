@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def isValid(self, s: str) -> bool:
-        return True
+        return False
         
 # @lc code=end
 
